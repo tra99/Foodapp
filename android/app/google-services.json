@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "649605498983",
+    "project_id": "retrivedata-acf20",
+    "storage_bucket": "retrivedata-acf20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649605498983:android:88e1f116fa3de919052cc2",
+        "android_client_info": {
+          "package_name": "com.example.online_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649605498983-cdur9nphb4cnncvld3jf8h5kivi9392u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYB4DpYuWw9tFeQVLHsW3Kakp4xKMZsp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649605498983-cdur9nphb4cnncvld3jf8h5kivi9392u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
